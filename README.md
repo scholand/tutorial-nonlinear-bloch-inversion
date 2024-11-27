@@ -9,3 +9,7 @@ This folder contains a standalone demo, which introduces the simulation, digital
 - **Nonlinear Inversion of the Bloch Equations**
   - [Jupyter Notebook](./nonlinear_Bloch_inversion.ipynb)
   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/scholand/tutorial-nonlinear-bloch-inversion/blob/main/nonlinear_Bloch_inversion.ipynb)
+
+### Related Materials
+* This tutorial is held after giving the presentation, which has been archived at: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14227601.svg)](https://doi.org/10.5281/zenodo.14227601).
+* Version 1 has been archived at: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14229103.svg)](https://doi.org/10.5281/zenodo.14229103).
